@@ -7,13 +7,5 @@ fields:
   config:
     required: false
   label: Title
-- name: service_title
-  type: blocks
-  label: Service title
-  template_types:
-  - 3-column-text
-  config:
-    min: 
-    max: 
 pages:
 - hi.md
