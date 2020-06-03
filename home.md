@@ -7,18 +7,6 @@ page_sections:
   block: header-1
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation: []
-- template: hero-banner-w-image
-  block: hero-2
-  background_image: "/uploads/2020/05/27/background1.png"
-  image:
-    image: ''
-    alt_text: ''
-  headline: ''
-  content: ''
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
