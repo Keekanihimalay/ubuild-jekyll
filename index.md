@@ -29,7 +29,7 @@ page_sections:
     button_text: 'See on GitHub '
   image:
     image: ''
-    alt_text: Product Shot
+    alt_text: ''
   background_image: "/uploads/2020/05/27/background1.png"
 - template: simple-footer
   block: footer-1
