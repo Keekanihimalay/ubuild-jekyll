@@ -10,7 +10,8 @@ fields:
 - name: service_title
   type: blocks
   label: Service title
-  template_types: []
+  template_types:
+  - 3-column-text
   config:
     min: 
     max: 
