@@ -13,8 +13,8 @@ page_sections:
     link_text: Service
   - link: "#Course"
     link_text: Course
-  - link: "#team"
-    link_text: Team
+  - link: "#about"
+    link_text: About
   cta:
     url: "//"
     button_text: Learn More
