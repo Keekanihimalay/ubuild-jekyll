@@ -11,8 +11,8 @@ page_sections:
     link_text: Home
   - link: "#Service"
     link_text: Service
-  - link: "#pricing"
-    link_text: Pricing
+  - link: "#Course"
+    link_text: Course
   - link: "#team"
     link_text: Team
   cta:
