@@ -2,11 +2,6 @@
 label: navigation-header-w-button
 hide_body: false
 fields:
-- type: text
-  hidden: true
-  label: block
-  name: block
-  default: ''
 - type: file
   name: logo
   label: Logo
