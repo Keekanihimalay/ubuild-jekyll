@@ -16,7 +16,7 @@ page_sections:
   - link: "#about"
     link_text: About
   cta:
-    url: "//"
+    url: "#more"
     button_text: Learn More
 - template: hero-banner-w-image
   block: hero-2
