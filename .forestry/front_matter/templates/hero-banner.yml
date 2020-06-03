@@ -1,4 +1,16 @@
 ---
 label: hero-banner
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: service_title
+  type: blocks
+  label: Service title
+  template_types: []
+  config:
+    min: 
+    max: 
